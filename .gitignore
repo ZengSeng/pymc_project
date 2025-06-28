@@ -3,7 +3,7 @@ venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
+# *.ipynb
 
 # Data files
 *.csv
